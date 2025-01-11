@@ -15,11 +15,8 @@
     "react-router-dom": "^7.1.1"
   },
   "scripts": {
-  "render-postbuild": "npm install --prefix frontend && cd frontend && npm run build",
-     "start":"react-scripts start",
-    "build":"react-scripts build",
-    "test":"react-scripts test",
-    "eject":"react-scripts eject",
+  "render-postbuild": "npm install --prefix frontend && cd frontend && npm run build"
+   
 },
 
   "devDependencies": {
